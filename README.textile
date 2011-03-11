@@ -1,12 +1,11 @@
 h1. Twitter Node.js Socket.IO Example
 
 Quick experiment of direct streaming from twitter to the browser, with no polling, using Node.js and Socket.IO.
-(Based on https://github.com/andregoncalves/twitter-nodejs-websocket, which is in turn a follow up to Ruben Fonseca "version":http://github.com/rubenfonseca/twitter-amqp-websocket-example with Ruby and AMQP).
+(Based on Andre Goncalves' ("@andregoncalves":http://twitter.com/andregoncalves) "websocket example":https://github.com/andregoncalves/twitter-nodejs-websocket, which is in turn based on to Ruben Fonseca's "version":http://github.com/rubenfonseca/twitter-amqp-websocket-example with Ruby and AMQP).
 
 h2. Requirements:
 
 * Node.js.
-* HTML5 WebSockets capable browser.
 
 h2. How To:
 
@@ -18,6 +17,7 @@ h2. How To:
 h2. Libraries used:
 
 * "Minimal websocket library":http://github.com/ncr/node.ws.js for node.js from Jacek Becela.
+* "socket.io":https://github.com/LearnBoost/Socket.IO
+* "node-static":https://github.com/cloudhead/node-static
 
-
-Andre Goncalves ("@andregoncalves":http://twitter.com/andregoncalves)
+Eric Dennis ("threetee.posterous.com":http://threetee.posterous.com, "@ericdennis":http://twitter.com/ericdennis)
