@@ -12,12 +12,11 @@ h2. How To:
 * Download and install node.js (instructions "here":http://nodejs.org/#download).
 * Download the project from "github":http://github.com/threetee/twitter-nodejs-socketio.
 * Start the server: @node server.js <twitter_username> <twitter_password> <optional_keyword>@.
-* Open @index.html@ with a WebSocket compatible browser (Chrome or Webkit nightly).
+* Open "http://localhost:8080":http://localhost:8080/ with a WebSocket compatible browser (Chrome or Webkit nightly).
 
 h2. Libraries used:
 
-* "Minimal websocket library":http://github.com/ncr/node.ws.js for node.js from Jacek Becela.
 * "socket.io":https://github.com/LearnBoost/Socket.IO
 * "node-static":https://github.com/cloudhead/node-static
 
-Eric Dennis ("threetee.posterous.com":http://threetee.posterous.com, "@ericdennis":http://twitter.com/ericdennis)
+Eric Dennis ("Blog":http://threetee.posterous.com, "@ericdennis":http://twitter.com/ericdennis)
